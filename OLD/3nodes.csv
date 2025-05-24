@@ -1,0 +1,20 @@
+Id,Label,Type,Group,Color
+1,Python-программист,priority,Приоритет,#000000
+101,Курс Skillbox.Python,discipline,PythonCore,#1E90FF
+102,Алгоритмы и анализ сложности Python,discipline,Algorithms,#2E86C1
+103,Программирование нейронных сетей 1,discipline,DeepLearning,#00CED1
+104,Программирование нейронных сетей 2,discipline,DeepLearning,#00CED1
+105,Работа с моделью сегментации спутниковых изображений,discipline,DeepLearning,#00CED1
+106,Промт-инжиниринг,discipline,DeepLearning,#00CED1
+301,Алгоритмы и структуры данных,discipline,Math/Probability,#FF5733
+
+Id,Label,Type,Group,Color
+2,Геймдев,priority,Приоритет,#000000
+201,Основы работы с Unity,discipline,UnityCore,#28B463
+202,Гейм-дизайн Unity,discipline,GameDesign,#239B56
+203,Тактический трёхмерный бой,discipline,GamePractice,#1D8348
+204,Разработка игры для ВК Плей и Я.Игры,discipline,GamePractice,#1D8348
+205,Работа с Яндекс.Игры (2D игра),discipline,GamePractice,#1D8348
+301,Алгоритмы и структуры данных,discipline,Math/Probability,#FF5733
+302,Математика и статистика,discipline,Math/Probability,#FF5733
+

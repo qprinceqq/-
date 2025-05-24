@@ -1,0 +1,26 @@
+Id,Label,Type,Group,Color
+1,Python-программист,priority,Приоритет,#000000
+2,Геймдев,priority,Приоритет,#000000
+101,Курс Skillbox.Python,discipline,PythonCore,#1E90FF
+102,Алгоритмы и анализ сложности Python,discipline,Algorithms,#2E86C1
+103,Программирование нейронных сетей 1,discipline,DeepLearning,#00CED1
+104,Программирование нейронных сетей 2,discipline,DeepLearning,#00CED1
+105,Работа с моделью сегментации спутниковых изображений,discipline,DeepLearning,#00CED1
+106,Промт-инжиниринг,discipline,DeepLearning,#00CED1
+107,Agile-подходы,discipline,Agile,#FFC300
+108,Продвижение в соцсетях,discipline,Marketing,#C70039
+109,Электронная коммерция (продукт и защита),discipline,Marketing,#C70039
+201,Основы работы с Unity,discipline,UnityCore,#28B463
+202,Гейм-дизайн Unity,discipline,GameDesign,#239B56
+203,Тактический трёхмерный бой,discipline,GamePractice,#1D8348
+204,Разработка игры для ВК Плей и Я.Игры,discipline,GamePractice,#1D8348
+205,Работа с Яндекс.Игры (2D игра),discipline,GamePractice,#1D8348
+206,ПП - образовательная игра,discipline,GamePractice,#1D8348
+207,Виртуализация и облако,discipline,Tech,#7D3C98
+208,Smart-контракты (распределённый реестр),discipline,Tech,#7D3C98
+301,Алгоритмы и структуры данных,discipline,Math/Probability,#FF5733
+302,Математика и статистика,discipline,Math/Probability,#FF5733
+303,Основы C#,discipline,PythonCore,#1E90FF
+304,Основы теории вероятностей,discipline,Math/Probability,#FF5733
+305,Основы работы с MySQL,discipline,PythonCore,#1E90FF
+306,Agile-подходы (повтор),discipline,Agile,#FFC300
